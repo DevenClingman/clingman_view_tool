@@ -6,7 +6,7 @@ require "clingman_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "clingman_view_tool"
   spec.version       = ClingmanViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Deven Clingman"]
   spec.email         = ["dclingy@gmail.com"]
 
   spec.summary       = %q{Provides a copyright on the botton of your page.}
